@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "A bit of bird's eye view"
 permalink: "/birds_eye_view"
 ---
