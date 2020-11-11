@@ -1,1 +1,1 @@
-This is a GIT book about building operations framework from scratch.
+https://pyromaniac.github.io/operations_cookbook/
