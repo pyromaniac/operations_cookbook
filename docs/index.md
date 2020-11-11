@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Intro"
+permalink: "intro"
+---
+
 # Intro
 
 In this GIT book I'll try to reflect my experience and knowledge as a collection of recepies and approaches that everyone is free to follow in their applications. The goal is to make the Rails application world a bit better and more unified place.
